@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title> Adopt </title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  
+<div class="modal-wrap">
+  <div class="modal-header"><span class="is-active"></span><span></span><span></span></div>
+  <div class="modal-bodies">
+    <div class="modal-body modal-body-step-1 is-showing">
+      <div class="title">Step 1</div>
+      <div class="description">Hello there, please fill out this form if you're interested in adopting a pet! </div>
+      <form>
+        <input type="text" placeholder="Name" required />
+        <input type="email" placeholder="Email" required />
+        <input type="text" placeholder="Number" required />
+        <div class="text-center">
+          <div class="button">Start</div>
+        </div>
+      </form>
+    </div>
+    <div class="modal-body modal-body-step-2">
+      <div class="title">Step 2</div>
+      <div class="description">Do you have any pets?</div>
+      <form>
+        <label>
+          <input type="radio" name="radio"/>Yes
+        </label>
+        <label>
+          <input type="radio" name="radio" id="radio2"/>No
+        </label>
+        <div class="text-center fade-in">
+          <div class="button">Next</div>
+        </div>
+      </form>
+    </div>
+
+      <div class="modal-body modal-body-step-3">
+      <div class="title">Step 3</div>
+      <div class="description">Do you have any kids?</div>
+      <form>
+        <label>
+          <input type="radio" name="radio1"/>Yes
+        </label>
+        <label>
+          <input type="radio" name="radio1" id="radio2">No
+        </label>
+        <div class="text-center fade-in">
+          <div class="button"> <a href="thankyou.html"> Submit </a></div>
+        </div>
+      </form>
+
+    
+      </div>
+    </div>
+  </div>
+
+
+  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+
+    <script src="js/index.js"></script>
+
+</body>
+</html>

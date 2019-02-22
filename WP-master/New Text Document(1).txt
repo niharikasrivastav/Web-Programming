@@ -1,0 +1,22 @@
+<html>
+<body background="ss.jpg" style="background-size:cover"> 
+<a href="home.html"> <img src="logo.jpg" aling="top" height="40" width="60"> </a>
+<p style="color:#FFFFFF;font-family:Segoe Print;font-size:20"><big>
+Things to know before selling your dog: </big> <br/>	
+How to Screen Prospective Buyers
+Once the word is out that you have puppies for sale, all kinds of people will come calling. The challenge as a responsible breeder is to weed out the unsuitable candidates and find people that have the time, means and desire to give one of your pups a happy, lifelong home.
+
+A prospective buyer should:
+
+<ul> <li>Have enough time to spend with a puppy and train it </li>
+<li>Provide truly adequate shelter from the elements </li>
+<li>Have a fenced in yard so the puppy can exercise safely </li>
+<li>Have permission from his or her landlord to house a pet if only renting the dwelling </li>
+<li>Realize that dogs require routine veterinary care, including vaccinations and annual check ups </li>
+<li>Be able to afford to pay for that veterinary care </li>
+<li>Be willing to provide high quality food and fresh water at all times </li>
+<li>Understand the grooming needs of the particular breed </li>
+</ul>
+<center> <p style="font-family:Times New Roman;"> <a href=""> Click here to go ahead! </a> </center>
+</body>
+</html>
